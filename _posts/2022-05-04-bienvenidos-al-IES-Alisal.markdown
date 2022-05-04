@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-05-04 17:22:23 +0000
-categories: jekyll update
+title:  "Bienvenidos al IES Alisal. Publicación 1"
+date:   2022-05-04 17:27:23 +0000
+categories: Noticias Generales
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
