@@ -1,8 +1,5 @@
 ---
 layout: default
-title: Acerca de
-permalink: /about/
-
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
