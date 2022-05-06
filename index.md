@@ -31,11 +31,3 @@ var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
-
-Información general del IES Alisal
-
-[IES Alisal en Educantabria](http://portaleducativo.educantabria.es/web/ies-alisal)
-
-[Moodle del IES Alisal](https://cursos.iesalisal.es/)
-
-[IES Alisal en GitHub](https://github.com/IESAlisal)
