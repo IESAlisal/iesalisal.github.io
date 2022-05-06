@@ -28,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://portaleducativo.educantabria.es/web/ies-alisal
 twitter_username: iesalisal
 github_username:  iesalisal
+show_downloads: true
 
 # Build settings
 #theme: minima
